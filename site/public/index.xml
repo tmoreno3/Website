@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tommy&#39;s Blog</title>
-    <link>http://tommy.moren.ooo/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Tommy&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Sat, 14 Feb 2026 15:22:32 -0600</lastBuildDate>
-    <atom:link href="http://tommy.moren.ooo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thisisatest</title>
-      <link>http://tommy.moren.ooo/thisisatest/</link>
+      <link>http://localhost:1313/thisisatest/</link>
       <pubDate>Sat, 14 Feb 2026 15:22:32 -0600</pubDate>
-      <guid>http://tommy.moren.ooo/thisisatest/</guid>
+      <guid>http://localhost:1313/thisisatest/</guid>
       <description>Hello there i am testing the color of the links here</description>
     </item>
     <item>
       <title>Test</title>
-      <link>http://tommy.moren.ooo/test/</link>
+      <link>http://localhost:1313/test/</link>
       <pubDate>Sat, 14 Feb 2026 14:48:28 -0600</pubDate>
-      <guid>http://tommy.moren.ooo/test/</guid>
+      <guid>http://localhost:1313/test/</guid>
       <description>Hello there this is a test hehehehe</description>
     </item>
   </channel>
