@@ -2,25 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Tommy&#39;s Blog</title>
-    <link>http://tommy.moren.ooo/blog/</link>
+    <link>http://localhost:1313/blog/</link>
     <description>Recent content in Blogs on Tommy&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 14 Feb 2026 15:22:32 -0600</lastBuildDate>
-    <atom:link href="http://tommy.moren.ooo/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Thisisatest</title>
-      <link>http://tommy.moren.ooo/thisisatest/</link>
-      <pubDate>Sat, 14 Feb 2026 15:22:32 -0600</pubDate>
-      <guid>http://tommy.moren.ooo/thisisatest/</guid>
-      <description>Hello there i am testing the color of the links here</description>
-    </item>
-    <item>
-      <title>Test</title>
-      <link>http://tommy.moren.ooo/test/</link>
-      <pubDate>Sat, 14 Feb 2026 14:48:28 -0600</pubDate>
-      <guid>http://tommy.moren.ooo/test/</guid>
-      <description>Hello there this is a test hehehehe</description>
+      <title></title>
+      <link>http://localhost:1313/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/</guid>
+      <description>Blog Coming Soon!!</description>
     </item>
   </channel>
 </rss>

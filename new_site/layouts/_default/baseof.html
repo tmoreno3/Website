@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>{{ .Title }}</title>
+  <style>
+  html, body {
+    height: 100%; /* Ensures body takes the full height of the viewport */
+    margin-left:15%;
+    margin-right:15%;
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+  }
+</style>
+</head>
+<body style="background-color:lightgray">
+
+  {{ block "main" . }}{{ end }}
+
+</body>
+</html>
