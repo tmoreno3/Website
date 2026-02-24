@@ -1,21 +1,35 @@
 <!DOCTYPE html>
 <html>
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8">
   <title>Blog</title>
   <style>
-  html, body {
+  body {
     height: 100%;  
-    margin-left:15%;
-    margin-right:15%;
+    margin:0%;
     display: flex;
+    flex-direction: column;
     justify-content: center;  
+  }
+  footer {
+	display:flex;
+	justify-content: center;
   }
 </style>
 </head>
 <body style="background-color:lightgray">
+  <header><div style="background-color:black; height:75px; margin:0%">
+	<div style="color:yellow; font-size=20px">
+		<a href="https://github.tcm.sh" style="color:yellow; font-size:20px">Github&nbsp</a>•<a href="https://tcm.sh" style="color:yellow; font-size:20px">&nbspAbout Me&nbsp</a>•<a href="mailto:tommy@moren.ooo" style="color:yellow; font-size:20px">&nbspContact</a>
+	</div>
+	<div style="text-align:right; color:yellow">
+		Tommy Moreno
+	</div>
+</div>
+</header>
 
-  
+  <main style="width:50%; margin-left:25%">
+    
 
 <main class="container">
   <h1>Blog</h1>
@@ -26,20 +40,35 @@
     
       <li class="post-item">
         <h2>
+          <a href="/blog/bsd_socket_p1/">
+            Bsd Sockets p1 - Basic TCP server
+          </a>
+        </h2>
+	
+          <p class="post-summary">
+            I want to preface this by saying that if you are interested in learning about Berkley Sockets, I highly recomend you buy &lsquo;Beej&rsquo;s Guide to Network Programming&rsquo;. It is where I got most of my knoweledge from and I highly recomend it.
+In this post I am going to introduce Berkley sockets and show how I wrote a simple tcp server in C.
+          </p>
+        
+        <p class="post-meta">
+          Feb 23, 2026
+        </p>
+      </li>
+    
+      <li class="post-item">
+        <h2>
           <a href="/blog/comingsoon/">
             Coming Soon
           </a>
         </h2>
-
-        <p class="post-meta">
-          Feb 23, 2026
-        </p>
-
-        
+	
           <p class="post-summary">
             Blog Coming Soon!
           </p>
         
+        <p class="post-meta">
+          Feb 23, 2026
+        </p>
       </li>
     
   </ul>
@@ -47,6 +76,7 @@
 </main>
 
 
+  </main>
 
 </body>
 </html>

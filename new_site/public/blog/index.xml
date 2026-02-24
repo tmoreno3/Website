@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on My New Hugo Site</title>
-    <link>https://example.org/blog/</link>
-    <description>Recent content in Blog on My New Hugo Site</description>
+    <title>Blog on Tommy Moreno</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blog on Tommy Moreno</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Feb 2026 18:31:04 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bsd Sockets p1 - Basic TCP server</title>
+      <link>http://localhost:1313/blog/bsd_socket_p1/</link>
+      <pubDate>Mon, 23 Feb 2026 18:31:04 -0600</pubDate>
+      <guid>http://localhost:1313/blog/bsd_socket_p1/</guid>
+      <description>I want to preface this by saying that if you are interested in learning about Berkley Sockets, I highly recomend you buy &amp;lsquo;Beej&amp;rsquo;s Guide to Network Programming&amp;rsquo;. It is where I got most of my knoweledge from and I highly recomend it.&#xA;In this post I am going to introduce Berkley sockets and show how I wrote a simple tcp server in C.</description>
+    </item>
     <item>
       <title>Coming Soon</title>
-      <link>https://example.org/blog/comingsoon/</link>
+      <link>http://localhost:1313/blog/comingsoon/</link>
       <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://example.org/blog/comingsoon/</guid>
+      <guid>http://localhost:1313/blog/comingsoon/</guid>
       <description>Blog Coming Soon!</description>
     </item>
   </channel>

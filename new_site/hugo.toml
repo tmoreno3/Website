@@ -1,3 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://tcm.sh'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Tommy Moreno'
+summaryLength = '50'

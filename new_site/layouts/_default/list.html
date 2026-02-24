@@ -17,16 +17,14 @@
             {{ .Title }}
           </a>
         </h2>
-
-        <p class="post-meta">
-          {{ .Date.Format "Jan 2, 2006" }}
-        </p>
-
-        {{ if .Summary }}
+	{{ if .Summary }}
           <p class="post-summary">
             {{ .Summary }}
           </p>
         {{ end }}
+        <p class="post-meta">
+          {{ .Date.Format "Jan 2, 2006" }}
+        </p>
       </li>
     {{ end }}
   </ul>
