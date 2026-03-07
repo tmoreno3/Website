@@ -1,0 +1,7 @@
+baseURL: "https://tommy.moren.ooo/blog"
+languageCode: en-us
+title: "Tommy's Blog"
+theme: ["PaperMod"]
+
+params:
+  author: "Tommy Moreno"
