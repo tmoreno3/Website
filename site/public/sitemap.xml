@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://tcm.sh/blog/tags/code/</loc>
+    <lastmod>2026-11-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://tcm.sh/blog/posts/cool_pe_problems/</loc>
     <lastmod>2026-11-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tcm.sh/blog/posts/</loc>
+    <loc>https://tcm.sh/blog/tags/math/</loc>
     <lastmod>2026-11-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tcm.sh/blog/tags/project-euler/</loc>
+    <loc>https://tcm.sh/blog/posts/</loc>
     <lastmod>2026-11-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tcm.sh/blog/tags/</loc>

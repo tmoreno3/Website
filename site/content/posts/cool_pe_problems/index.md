@@ -2,7 +2,7 @@
 title: Fun Project Euler Problems
 description: Intuative solutions to a few Project Euler problems
 date: 2026-11-25
-tags: [Project Euler]
+tags: [Math, Code] 
 math: true
 ---
 
