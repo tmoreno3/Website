@@ -6,6 +6,7 @@ theme="archie"
 [params]
 mode = "auto"
 useCDN = true
+katex = true
 
 [[params.social]]
 name = "GitHub"

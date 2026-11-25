@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project Euler on Tommy Moreno</title>
+    <link>http://localhost:1313/blog/tags/project-euler/</link>
+    <description>Recent content in Project Euler on Tommy Moreno</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/tags/project-euler/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fun Project Euler Problems</title>
+      <link>http://localhost:1313/blog/posts/cool_pe_problems/</link>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/posts/cool_pe_problems/</guid>
+      <description>&lt;h2 id=&#34;problem-15&#34;&gt;Problem 15&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;p15.png&#34; alt=&#34;Problem 15&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;This problem asks how many possible ways there are to get from the top left corner of a grid to the bottom right of the grid only being able to move right and down. We know that for any grid of size n, we will need to do exactly n moves down, and n moves to the right.&lt;br&gt;&#xA;If we repressent moves ot the right with the letter a, and moves down with the letter b, each path can be written in this form: aabbabbabbbaaa&amp;hellip; This problem is then reduced to the question of how many permutations are there of 20 a&amp;rsquo;s and 20 b&amp;rsquo;s. The formula for this problem is&lt;br&gt;&#xA;$$\frac{n!}{n_1! \cdot n_2!}$$&lt;br&gt;&#xA;Where n&lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt; and n&lt;!-- raw HTML omitted --&gt;2&lt;!-- raw HTML omitted --&gt; are the number of repeating a&amp;rsquo;s and b&amp;rsquo;s. We can use python to find this result.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
